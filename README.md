@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **itchaox/itchaox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hey，itchao here！ 👋
+😄introduce:I am a junior front-end development engineer from Chengdu, China.
+⚡skill: Vue、JavaScript、CSS、HTML、element-ui and others.
+✨target：Become a very powerful front-end development engineer and strive to become the boss of the whole stack as soon as possible.
 ![](https://github-readme-stats.vercel.app/api?username=itchaox)
