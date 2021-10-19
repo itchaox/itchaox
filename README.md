@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 
 😄 introduce:I am a junior front-end development engineer from Chengdu, China.<br>
 ⚡ skill: Vue、JavaScript、CSS、HTML、element-ui and others.<br>
-✨ target：Become a very powerful front-end development engineer and have their own it world.<br><br><br><br>
+✨ target：Become a very powerful front-end development engineer and have their own it world.<br><br>
 ![](https://github-readme-stats.vercel.app/api?username=itchaox)
