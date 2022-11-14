@@ -1,7 +1,7 @@
 ## Hey，itchao here！ 👋
 
 😄 introduce:I am a junior front-end development engineer from Chengdu, China.<br>
-⚡ skill: React、Vue、JavaScript、CSS、HTML、element-ui and others.<br>
+⚡ skill: React、Vue、JavaScript、TypeScript、CSS、HTML、element-ui and others.<br>
 ✨ target：Become a very powerful front-end development engineer and have their own it world.<br>
 🏡 Self motivation: lifelong learning, no self doubt, no self limitation, adhere to study hard and become a better person<br><br>
 ## Warehouse summary 🌱
