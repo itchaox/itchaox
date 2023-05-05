@@ -1,4 +1,4 @@
-## Hey，Wangc here！ 👋
+## Hey，itchao here！ 👋
 
 😄 introduce:I am a junior front-end development engineer from Chengdu, China.<br>
 ⚡ skills: React、Vue、JavaScript、TypeScript.<br>
