@@ -1,6 +1,5 @@
 ## Hey，artisan itchao here！ 👋
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=itchaox&theme=xcode" /> </div>
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=itchaox&theme=dracula)](https://github.com/itchaox/github-readme-activity-graph)
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
