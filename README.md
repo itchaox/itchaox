@@ -10,6 +10,3 @@ Become a very powerful front-end development engineer and have their own it worl
 
 ![](https://github-readme-stats.vercel.app/api?username=itchaox&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itchaox&layout=compact&theme=tokyonight)
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=itchaox&theme=dracula)](https://github.com/itchaox/github-readme-activity-graph)
-
