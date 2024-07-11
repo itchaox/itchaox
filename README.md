@@ -9,4 +9,4 @@ Become a very powerful front-end development engineer and have their own it worl
 
 - [Bilibili](https://space.bilibili.com/521041866)
 - [Juejin](https://juejin.cn/user/3905881963247111)
-- [WeChat Official Account](@爱听书的程序员阿超)
+- 微信公众号: @爱听书的程序员阿超
