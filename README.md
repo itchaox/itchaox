@@ -1,4 +1,4 @@
-## Hey，itchao here！ 👋
+## Hey，Wang Chao here！ 👋
 Become a very powerful front-end development engineer and have their own it world.<br>
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,vue,react,vite,webpack,nodejs)](https://skillicons.dev)
