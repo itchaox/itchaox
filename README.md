@@ -1,4 +1,4 @@
-## Hey，Wang Chao here！ 👋
+## Hi，Wang Chao here！ 👋
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,vue,react,vite,webpack,nodejs)](https://skillicons.dev)
 
