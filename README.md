@@ -8,4 +8,3 @@
 
 - [Bilibili](https://space.bilibili.com/521041866)
 - [Juejin](https://juejin.cn/user/3905881963247111)
-- 公众号: @爱听书的程序员阿超
